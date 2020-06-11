@@ -1,13 +1,8 @@
 # @ianwalter/is-chrome
-> Detect whether a browser environment or user agent string supports
-> input[type=date]
+> Detect whether a browser or user-agent is Chrome
 
 [![npm page][npmImage]][npmUrl]
 [![CI][ciImage]][ciUrl]
-
-## About
-
-Browser code originates from [this StackOverflow answer][soUrl].
 
 ## Installation
 

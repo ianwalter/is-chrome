@@ -1,7 +1,7 @@
 {
   "name": "@ianwalter/is-chrome",
   "version": "0.0.0",
-  "description": "Detect whether a browser environment or user agent supports input[type=date]",
+  "description": "Detect whether a browser or user-agent is Chrome",
   "license": "SEE LICENSE IN LICENSE",
   "author": {
     "name": "Ian Walter",
@@ -22,14 +22,15 @@
     "url": "git+https://github.com/ianwalter/is-chrome.git"
   },
   "keywords": [
-    "date",
-    "input",
-    "support",
+    "google",
+    "chrome",
     "detection",
     "browser",
     "useragent",
     "user",
-    "agent"
+    "agent",
+    "user-agent",
+    "server"
   ],
   "bugs": {
     "url": "https://github.com/ianwalter/is-chrome/issues"
