@@ -39,9 +39,6 @@
   "files": [
     "dist"
   ],
-  "dependencies": {
-    "bowser": "^2.9.0"
-  },
   "devDependencies": {
     "@ianwalter/bff": "^9.9.1",
     "@ianwalter/bff-puppeteer": "^2.0.0",
