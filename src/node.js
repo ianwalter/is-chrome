@@ -1,3 +1,3 @@
 export default function isChrome (ua) {
-  return ua.includes('Chrome/')
+  return ua && ua.includes('Chrome/')
 }

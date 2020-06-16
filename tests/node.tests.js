@@ -16,3 +16,5 @@ test('returns true for Chrome 72', t => {
   `
   t.expect(isChrome(ua)).toBe(true)
 })
+
+test('undefined', t => t.expect(isChrome(undefined)).toBe(undefined))
