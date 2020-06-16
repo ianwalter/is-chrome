@@ -1,6 +1,6 @@
 {
   "name": "@ianwalter/is-chrome",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Detect whether a browser or user-agent is Chrome",
   "license": "SEE LICENSE IN LICENSE",
   "author": {
